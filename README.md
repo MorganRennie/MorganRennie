@@ -9,7 +9,7 @@ Welcome to my GitHub profile! My name is __Morgan Rennie__. I am a passionate da
 I'm currently contracted out to IAG Cargo on a data engineering project to produce a dataset that chronicles events along a piece of cargo's journey.
 - 🌱 Continuously learning about Engineering, Analytics, and Life
 
-Outside of coding, I enjoy Photography, Snowsports
+Outside of coding, I enjoy photography, cycing, snowsports, travel and cooking. 
 
 ## 📫 Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to reach out:
