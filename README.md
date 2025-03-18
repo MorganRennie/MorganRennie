@@ -1,6 +1,6 @@
 
 <p align="center"> Welcome to My GitHub! </p>
-
+<p align="center"> Check out my [Github.ie Website!](https://morganrennie.github.io/)</p>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to my GitHub profile! My name is __Morgan Rennie__. I am a passionate data analyst and developer with a focus on visualization and database engineering - but I love learning new languages and skills. Here, you'll find a few projects and experiments that showcase my journey through The Information Lab, and the skills I gained along the way.  Check out my Tabealu Public here: [[Tableau Public]](https://public.tableau.com/app/profile/morgan.rennie/vizzes) and my CV here: [[PDF CV]](https://github.com/MorganRennie/MorganRennie/blob/main/morgan_rennie_cv_pdf.pdf)| ![Welcome GIF](https://media1.tenor.com/m/nXPPaulE8xEAAAAd/inside-out-disney.gif) |
 |-----------------|-----------------------------------------------------------------------------------|
