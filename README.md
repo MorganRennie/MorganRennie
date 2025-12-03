@@ -7,6 +7,8 @@
 
 ## 🚀 About Me
 
+# Current Project: [Advent of Code](https://github.com/MorganRennie/advent_of_code_2025) in Python!
+
 I'm currently on an extension course to expand my data engineering skills.
 
 - 🌱 Continuously learning about Engineering, Analytics, and Life
